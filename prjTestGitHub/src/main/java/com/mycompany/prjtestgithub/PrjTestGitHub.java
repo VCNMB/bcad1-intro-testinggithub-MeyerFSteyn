@@ -33,7 +33,8 @@ public class PrjTestGitHub {
         System.out.println("Hello World! I just did my first github project");
         
         newClass nc = new newClass();
-        nc.helloClass();
+        nc.helloClass();    
+        System.out.println(nc.strSecondClassVar);  //sout + tab
         
     }   
 }

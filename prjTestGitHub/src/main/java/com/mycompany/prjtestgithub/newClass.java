@@ -10,7 +10,9 @@ package com.mycompany.prjtestgithub;
  * @author mryer
  */
 public class newClass {
-
+    
+    public String strSecondClassVar = "Testing";
+    
     public void helloClass() {
         System.out.println("Hello from the 2nd class!");
         
